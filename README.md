@@ -1,2 +1,1 @@
-# Vaccine-Distribution-System
-Distribiting Vaccines
+# vaccine_distribution_system
